@@ -1,0 +1,6 @@
+[package]
+name = "Elliptic_Curve_Point_Generation_Addition_and_Generator_Detection_over_Finite_Fields"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
